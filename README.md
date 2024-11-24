@@ -104,7 +104,8 @@ or
 
 •	A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/a48be3b3-fe2f-4aa4-9c04-a9d55fa90500)
+![Screenshot 2024-11-23 153255](https://github.com/user-attachments/assets/e77f5b04-dd13-4892-b24a-cf64e5427768)
+
 
 
 ### Fig 6: Selection of Don’t include any libraries
